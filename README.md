@@ -1,4 +1,28 @@
+# 책 부록 소스 프로젝트 입니다
 
+직무 교육( OJT, On the job Training )을 위해서 클론 하였습니다.  
+책 관련 링크 입니다.  
+
+- [Real-World Next.js [ 원서 ]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290618653)  
+
+- [실전에서 바로쓰는 Next.js [ 번역서 ]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308448704)  
+
+
+## 개발 및 테스트 환경
+
+- windows 10  
+- nvm for windows  
+- node v20.10.0  
+- npm v10.2.3  
+- ...  
+
+## 사전 지식
+
+- javascript  
+- typescript  
+- webpack  
+- react  
+- ...  
 
 
 ## $5 Tech Unlocked 2021!
